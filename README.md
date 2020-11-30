@@ -1,5 +1,5 @@
 # Parts_Bot
-Refactor for Action Card bot from Service Titan form completions
+Refactor for Action Card bot from Service Titan form completions.
 
 This is a refactor for the python script found from my [StarService](https://github.com/starhound/StarService/blob/main/partsbot.py) repo.
 
